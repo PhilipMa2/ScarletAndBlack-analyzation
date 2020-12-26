@@ -8,3 +8,6 @@ Afterwards you can open Projectgui_ver2.0 and hit run. (make sure to change the 
 The program will then ask you to choose a visualization. After choosing the visualization, just put in the word you are interested in and the range of years you wish to analyze. 
 
 After the analyzing is done, another popup window will appear to ask you if you want to continue analyzing the data. 
+
+Here is an example for the result wordcloud of word "college"
+![example](https://github.com/PhilipMa2/ScarletAndBlack-analyzation/blob/main/example.png)
